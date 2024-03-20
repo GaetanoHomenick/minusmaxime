@@ -1,0 +1,27 @@
+{
+  "name": "minusmaxime",
+  "devDependencies": {
+    "@changesets/changelog-github": "^0.4.0",
+    "@changesets/cli": "^2.18.0",
+    "@types/jest": "^27.0.1",
+    "husky": "^7.0.2",
+    "jest": "^27.0.6",
+    "jest-cli": "^27.0.6",
+    "jest-util": "^27.0.6",
+    "mkdirp": "^1.0.4",
+    "nixt": "^0.5.1",
+    "prettier": "^2.3.2",
+    "pretty-quick": "^3.1.1",
+    "rimraf": "^3.0.2"
+  },
+  "license": "MIT",
+  "author": "JakeHintz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GaetanoHomenick/minusmaxime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GaetanoHomenick/minusmaxime.git/issues"
+  },
+  "version": "1.0.0"
+}
